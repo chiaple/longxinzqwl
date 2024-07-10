@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ls1x_gpio.h": "c",
+        "ls1x_uart.h": "c",
+        "ls1c102_interrupt.h": "c"
+    }
+}
